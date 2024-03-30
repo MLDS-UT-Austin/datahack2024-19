@@ -19,7 +19,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the data
-file_path = r"batting_season_summary.csv"
+file_path = "example_data/batting_season_summary.csv"
 data = pd.read_csv(file_path)
 
 # Group by 'age' and calculate the mean for each group
