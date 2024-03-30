@@ -22,5 +22,7 @@ Remember to join [our discord](https://discord.gg/vyd36Sze) for updates!
 
 Datahack resources (dataset, problem description, slides, etc.) can be found [here](https://drive.google.com/drive/folders/1XU8aUJy1xSLOxN_XLqD0N3vJMbyzRPxE?usp=share_link)
 
-For the code run freeagencyfinal first then run allocated budget and finally run submission if you want the final csv. (These are the main ones, the rest are helper files or alternative sample iterations)
+## How to Run
+
+For the code, run freeAgencyFinal.py first, then run allocatedbudget.py, and finally run submission.py. This will result in submission.csv. (These are the main ones, the rest are helper files, alternative sample iterations, or visualizations)
 
